@@ -1,0 +1,10 @@
+In machine learning and statistics, 
+classification is a supervised learning approach in which the computer program learns from the data input 
+given to it and then uses this learning to classify new observation. 
+This data set may simply be bi-class (like identifying whether the person is male or female or that the mail is spam or non-spam) 
+or it may be multi-class too. 
+Some examples of classification problems are: 
+      speech recognition
+      handwriting recognition
+      bio metric identification
+      document classification etc.
